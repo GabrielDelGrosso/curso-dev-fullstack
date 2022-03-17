@@ -1,0 +1,46 @@
+body {
+    background: rgba(162, 183, 185, 0.335);
+    font-family: 'Raleway', sans-serif;
+    font-size: larger;
+    color: rgb(0, 0, 0);
+    
+
+    
+}
+
+.foto-principal {
+    border: 5px solid rgb(245, 245, 245); /*shorthand*/
+    border-radius: 50%; /*50% = exatamente redondo */
+    margin: 30px;
+    width: 250px;
+    box-shadow: 0px 0px 10px rgb(148, 140, 140);
+    /* padding: 10px; espaçamento interno */
+     /* margin-left: auto; /* centralizar
+    margin-right: auto; /* centralizar
+    display: block; /* centralizar */
+}
+
+h1 { 
+    margin-bottom: 0px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 45px;
+}
+
+h2 {
+    margin-top: 0px;
+    font-style: italic;
+    color: rgb(70, 66, 66);
+    letter-spacing: -1px;
+    font-weight: lighter;
+}
+
+button {
+   background-color: rgba(162, 183, 185, 0.335);
+   color: black;
+   width: 100px;
+   height: 50px;
+   margin-left: 0px;
+   font-size: medium;
+}

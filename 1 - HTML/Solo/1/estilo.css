@@ -1,0 +1,74 @@
+html, body {
+    height:100%;
+}
+
+body {
+    margin: 0 auto;
+    background: rgba(206, 69, 110, 0.198); /* tag */ 
+    font-family: 'Raleway', sans-serif;
+    font-size: larger;
+    overflow-x: hidden;
+    
+     
+}
+
+.container {
+    width: 2000px;
+    margin: 0 auto
+
+}
+
+p {
+    
+    font-size: larger;
+    width: 1400px; 
+    text-align: justify;
+}
+
+img {
+    border: 5px solid rgba(226, 44, 99, 0.212);
+}
+
+.ibagens {
+    display: flex;
+}
+
+.foto {
+    border: 5px solid rgba(226, 44, 99, 0.212);
+    width: 100px;
+    height: 80px;
+    border-radius: 50%;    
+}
+
+#titulo {
+    color: rgb(0, 0, 0); /* id */   
+}
+
+.capa {
+    width: 350;
+    border: 5px solid rgba(226, 44, 99, 0.212);   
+}
+
+.botao {
+    background-color: black;
+    color: white;  
+    font-size: large;  
+}
+
+.yashahime {
+    background-color: rgba(226, 44, 99, 0.075);
+    color: white;
+    font-size: large;
+    border-color: rgb(0, 0, 0);
+}
+
+.footer {
+    background-color: rgba(226, 44, 99, 0.212);
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto;
+    bottom: 0%;
+    position: absolute;
+    
+}
+

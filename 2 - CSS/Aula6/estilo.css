@@ -1,0 +1,16 @@
+body {
+    background: rgba(181, 234, 241, 0.335);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.foto-principal {
+    border: 10px solid rgb(0, 0, 0); /*shorthand*/
+    border-radius: 50%; /*50% = exatamente redondo */
+    margin: 30px;
+    width: 250px;
+    /* padding: 10px; espaçamento interno */
+     /* margin-left: auto; /* centralizar
+    margin-right: auto; /* centralizar
+    display: block; /* centralizar */
+}
